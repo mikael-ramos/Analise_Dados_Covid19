@@ -1,6 +1,7 @@
 # 📊 Dashboard de Análise de Dados COVID-19
 
 Este projeto é um painel interativo construído com [Streamlit](https://streamlit.io/) para visualizar dados da COVID-19 por país. O objetivo é facilitar a análise exploratória de casos confirmados em diferentes regiões.
+Link do [Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report) utilizado para analise.
 
 ## 🚀 Demonstração
 
