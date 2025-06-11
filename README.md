@@ -55,9 +55,6 @@ O navegador abrirá automaticamente o painel interativo.
 * Gráfico de barras com número de casos confirmados por país.
 * Filtro interativo para escolha de países.
 
-## 📝 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
