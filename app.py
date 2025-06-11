@@ -47,7 +47,7 @@ if select_countries:
         filtred_countries,
         x="Country/Region",
         y=["Deaths","Confirmed"],
-        color="Country/Region",
+        color=["#0000FF","#FF0000"],
         height=500,
         use_container_width=False,
         width=900
