@@ -58,4 +58,4 @@ O navegador abrirá automaticamente o painel interativo.
 
 ---
 
-Feito com 💻 por \[Seu Nome]
+
